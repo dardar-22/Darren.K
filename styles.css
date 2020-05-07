@@ -11,4 +11,8 @@
  top: 30%;
  background-color: slategray;
  color: white;
+ padding: 20px;
+}
+.banner h2{
+ font-size: 75px;
 }
