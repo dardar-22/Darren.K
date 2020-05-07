@@ -11,8 +11,19 @@
  top: 30%;
  background-color: black;
  color: white;
- padding: 20px;
+ padding: 22px;
 }
 .banner h2{
  font-size: 74px;
+}
+
+header{
+ background-color: black;
+ color: white;
+ padding: 22px;
+ text-align: center;
+ position: fixed;
+ width: 100%;
+ z-index: 1;
+ 
 }
