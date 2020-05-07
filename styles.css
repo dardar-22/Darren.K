@@ -121,6 +121,9 @@ nav li a:hover{
     width: 100%;
     margin: 12px 0;
   }
+  header{
+    position: relative;
+  }
   
   }
 
