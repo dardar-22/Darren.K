@@ -78,6 +78,8 @@ article p{
 }
 
 nav li a:hover{
-  color:#048be8;
+  color:white;
+  background-color:black;
   text-decoration: underline;
+  padding: 2px;
 }
