@@ -83,3 +83,7 @@ nav li a:hover{
   text-decoration: underline;
   padding: 2px;
 }
+body, p, a, ui, li, h1, h2::selection{
+  background-color: black;
+  color: white;
+}
