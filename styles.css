@@ -76,3 +76,8 @@ article p{
   line-height: 2em;
   color: #4b4b4b;
 }
+
+nav li a:hover{
+  color:#048be8;
+  text-decoration: underline;
+}
