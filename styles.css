@@ -84,3 +84,11 @@ nav li a:hover{
   padding: 2px;
 }
 
+@media screen and (max-width: 1400px){
+  .banner .welcome{
+   font-size: 22px
+ 
+ 
+}
+}
+
