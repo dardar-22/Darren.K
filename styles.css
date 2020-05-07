@@ -29,3 +29,16 @@ header{
  left: 0;
  
 }
+
+nav{
+ bacground-color: #F4F4F4;
+ padding: 20px;
+}
+nav ul{
+ white-space: nowrap;
+}
+nav li{
+ width: 20%;
+ display: inline-block;
+ font-size: 22px;
+}
