@@ -1,2 +1,0 @@
-# Darren.K
-My portfolio
